@@ -10,6 +10,9 @@ You can save this code in a PowerShell script file with a .ps1 extension and the
 
 ## Get-MoveMouseLocation
 
+![image](https://github.com/afrank84/PS_Mouse_N_Keyboard_Manipulation/assets/11393535/2c7747c7-57ce-40b7-be4a-0b89f57378c0)
+
+
 You can call this function with the target x and y positions as arguments, as well as an optional speed value (which defaults to 10 if not specified). Here's an example:
 
 Move-MouseSlowly -TargetX 100 -TargetY 200 -Speed 5
