@@ -32,3 +32,5 @@ function Get-MouseCoordinates {
         return $point
     }
 }
+
+Get-MouseCoordinates
